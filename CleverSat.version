@@ -1,7 +1,7 @@
 {
-    "NAME"     : "Contract Pack: Bases and Stations",
-    "URL"      : "https://github.com/severedsolo/KerbinSpaceStation/blob/master/BasesandStations.version",
-    "DOWNLOAD" : "https://github.com/severedsolo/KerbinSpaceStation/releases",
+    "NAME"     : "Contract Pack: Clever Sats",
+    "URL"      : "https://github.com/severedsolo/CleverSat/blob/master/CleverSat.version",
+    "DOWNLOAD" : "https://github.com/severedsolo/CleverSat/releases",
     "GITHUB" :
     {
         "USERNAME" : "severedsolo",
@@ -9,9 +9,9 @@
     },
     "VERSION" :
     {
-        "MAJOR" : 3,
+        "MAJOR" : 0,
         "MINOR" : 1,
-        "PATCH" : 3,
+        "PATCH" : 0,
         "BUILD" : 0
     },
     "KSP_VERSION" :
