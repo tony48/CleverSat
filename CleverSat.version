@@ -5,8 +5,10 @@
     "GITHUB" :
     {
         "USERNAME" : "severedsolo",
-        "REPOSITORY" : "CleverSat"
-    },
+        "REPOSITORY" : "CleverSat",
+     	"ALLOW_PRE_RELEASE" : "true"
+	},
+	
     "VERSION" :
     {
         "MAJOR" : 0,
